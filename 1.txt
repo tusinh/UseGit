@@ -1,0 +1,16 @@
+12-26 17:01:21.563 9680-9680/test.sinh.test E/tusinh: cookie Domain: erp.izisolution.vn
+12-26 17:01:21.563 9680-9680/test.sinh.test E/tusinh: cookie: session_id=b7ea9a0a821b7a25b7763c77836971f6c7a4fa74
+12-26 17:01:21.565 9680-9680/test.sinh.test E/tusinh: cookie Domain: taiphat.erpviet.vn
+12-26 17:01:21.565 9680-9680/test.sinh.test E/tusinh: cookie: session_id=dfe545bd02836a0ccc336e32bb3574d4c7d1fd8e
+
+12-26 17:35:13.055 14646-14646/test.sinh.test E/tusinh: cookie Domain: erp.izisolution.vn
+12-26 17:35:13.055 14646-14646/test.sinh.test E/tusinh: cookie: session_id=b7ea9a0a821b7a25b7763c77836971f6c7a4fa74
+12-26 17:35:13.056 14646-14646/test.sinh.test E/tusinh: cookie Domain: khangminh.erpviet.vn
+12-26 17:35:13.056 14646-14646/test.sinh.test E/tusinh: cookie: session_id=5fcd1c2e783b9fa51833f4e4a4d4559ab3ffb980
+12-26 17:35:13.056 14646-14646/test.sinh.test E/tusinh: cookie Domain: taiphat.erpviet.vn
+12-26 17:35:13.056 14646-14646/test.sinh.test E/tusinh: cookie: session_id=dfe545bd02836a0ccc336e32bb3574d4c7d1fd8e
+
+12-26 17:58:06.394 18762-18762/test.sinh.test E/tusinh: cookie Domain: khangminh.erpviet.vn
+12-26 17:58:06.394 18762-18762/test.sinh.test E/tusinh: cookie: session_id=3c60914c7fa0e43ac6d9fd4bd4ca0777ba037e4b
+12-26 17:58:06.396 18762-18762/test.sinh.test E/tusinh: cookie Domain: taiphat.erpviet.vn
+12-26 17:58:06.396 18762-18762/test.sinh.test E/tusinh: cookie: session_id=8b34370a080351b2e974e6c18399937659901877
