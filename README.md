@@ -1,6 +1,7 @@
 # UseGit
 test day git 
 
-# Tiêu đề 1 (h1)
+# Cách sử dụng github(h1)
+ _mở file usegit và xem :))_
 ## Tiêu đề 2 (h2)
 ### Tiêu đề 3 (h3)
